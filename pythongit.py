@@ -7,7 +7,8 @@ source = "C:/Development/remote/eisuite/"
 git = ".git"
 target = "C:/Development/projects/CriterionSys/criterion-sys3/"
 commitNames = [
-   
+   "32b39dff89756204f8aa04fc2ea1e0fd2a062d9e",
+   "5d36faffe556fe32a868a0c7e4ecff47da19dea0"
 ]
 array = []
 
